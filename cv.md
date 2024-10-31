@@ -6,7 +6,7 @@
 ### sex: female
 
 ## Education Background
- ### College: *Belarusian State Academy of Communications*
+ College: *Belarusian State Academy of Communications*
    + specialty: software tester
 
 ## Skills:
