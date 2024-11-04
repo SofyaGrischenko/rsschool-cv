@@ -1,1 +1,1 @@
-https://SofyaGrischenko.github.io/rsschool-cv/cv
+https://SofyaGrischenko.github.io/rsschool-cv/
